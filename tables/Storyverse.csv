@@ -1,0 +1,67 @@
+H-ID,type_id,preferred_name,member_of_cycle H-ID,alternative_names,described_by_source H-ID,described_at_URL,reference_notes,review_status,review_status TRM-ID,review_note
+4,102,??,[],[],[],[],[],Action required,9697,"All of the linked works needs review, and this needs to be deleted eventually."
+5,102,Charlemagne – après Roncevaux,[952],[],[],[],[],Publish,9699,
+6,102,reliques de la Passion,[952],[],[],[],[],Publish,9699,
+7,102,vol des reliques de la Passion à Rome,[6],[],[],[],[],Publish,9699,
+8,102,Vie de Roland,[952],[],[],[],[],Publish,9699,
+9,102,Roncevaux,[952],[],[],[],[],Publish,9699,
+10,102,Charlemagne – suite Roncevaux,[9],[],[],[],[],Publish,9699,
+11,102,Barons révoltés,[47703],[Vassaux rebelles],[],[],[],Publish,9699,
+12,102,Vie de Charlemagne,[952],[],[],[],[],Publish,9699,
+13,102,Charles Martel,[47711],[],[],[],[],Publish,9699,
+14,102,Crusades,[],[Matière des croisades],[],[],[],Publish,9699,
+15,102,Matter of England,[],[],[],[],[],Open,9698,
+16,102,Albigeois,[14],[],[],[],[],Publish,9699,
+17,102,Reconquista,[14],[],[],[],[],Publish,9699,
+19,102,Crusade first cycle,[14],[Premier cycle de la croisade],[],[],[],Publish,9699,
+21,102,Lignage Godefroi,[19],[],[],[],[],Publish,9699,
+22,102,Crusade Second Cycle,[14],[Deuxième cycle de la croisade],[],[],[],Publish,9699,
+23,102,Dagobert,[33],[],[],[],[],Publish,9699,
+24,102,Doon de Maience,[11],[],[],[],[],Publish,9699,
+25,102,Girart de Roussillon,[11],[],[],[],[],Publish,9699,
+27,102,Huon de Bordeaux,[47703],[],[],[],[],Action required,9697,This cycle (or maybe only some songs in it) should also be linked to the Arthurian storyverse
+31,102,Arles,[47703],[],[],[],[],Open,9698,
+32,102,Isembart,[11],[],[],[],[],Action required,9697,Verify the Works associated with this cycle and move them to a confirmed cycle (or make them independent) then delete this cycle.
+33,102,Merovingian,[47895],[Matière mérovingienne],[],[],[],Open,9698,
+34,102,Lorrains,[11],[],[],[],[],Open,9698,
+36,102,Rainouart,[954],[],[],[],[],Publish,9699,
+37,102,Bueve de Hanstonne,[15],[],[],[],[],Open,9698,
+38,102,Aliscans/Larchamp,[954],[],[],[],[],Publish,9699,
+39,102,Garin (les origines),[954],[],[],[],[],Publish,9699,
+40,102,Vie de Guillaume,[954],[],[],[],[],Publish,9699,
+43,102,Narbonne,[954],[],[],[],[],Publish,9699,
+44,102,Vivien,[954],[],[],[],[],Publish,9699,
+45,102,Nanteuil,[24],[],[],[],[],Publish,9699,
+47,102,Ogier,[24],[],[],[],[],Publish,9699,
+48,102,Arnaïs d'Orléans,[],[],[],[],[],Publish,9699,
+49,102,Renaut de Montauban,[24],[],[],[],[],Publish,9699,
+50,102,Saint-Gilles,[],[],[],[],[],Publish,9699,
+51,102,Basin [lien geste lorrains],[],[],[],[],[],Action required,9697,"What does ""[lien geste lorrains]"" mean?"
+52,102,Blaye,[47703],[],[],[],[],Publish,9699,
+53,102,Charlemagne -- ??,[952],[],[],[],[],Action required,9697,"Review all the linked works and determine if they belong to the real Charlemagne entity, something else, or nothing. Then delete this entity."
+54,102,Agolant,[952],[],[],[],[],Open,9698,
+930,102,Charlemagne – avant Roncevaux,[9],[],[],[],[],Publish,9699,
+931,102,Charlemagne – avant Roncevaux?,[9],[],[],[],[],Action required,9697,"Verify the Works associated with this cycle and move them to a confirmed one (or make them independent), then delete the cycle."
+933,102,Croisade?,[14],[],[],[],[],Action required,9697,Verify the Works associated with this cycle and move them to a confirmed cycle (or make them independent) then delete this cycle.
+952,102,Charlemagne,[47711],[geste du roi],[],[],[],Publish,9699,
+954,102,Monglane,[47703],[],[],[],[],Publish,9699,
+2348,102,Troian,[47704],[Matière troienne],[],[],[],Open,9698,
+47703,102,Matter of France,[],[Matière de France],[],[],[],Open,9698,
+47704,102,Matter of Antiquity,[],[Matter of Rome],[],[],[],Open,9698,
+47705,102,Theban,[47704],[Matière thébaine],[],[],[],Open,9698,
+47706,102,Byzantine,[47704],[Matière de Byzance],[],[],[],Open,9698,
+47707,102,Alexandrian,[47704],[Matière alexandrine],[],[],[],Open,9698,
+47708,102,Matter of Britain,[],[Matière de Bretagne],[],[],[],Open,9698,
+47709,102,Tristanian,[47708],[Matière tristanienne],[],[],[],Open,9698,
+47710,102,Arthurian,[47708],[matière arthurienne],[],[],[],Open,9698,
+47711,102,Carolingian,[47895],[matière carolingienne],[],[],[],Open,9698,
+47766,102,[Fils de Charlemagne],[47711],[],[],[],"[Mölk Ulrich. Lohier et Malart. Fragment d'une chanson de geste disparue. In: Romania, tome 110 n°439-440, 1989. pp. 466-492.]",Action required,9697,"This cycle can be debated, but, as is shown by Mölk and others, it existed in several (now lost) French manuscripts, and was also translated into German by Elisabeth de Lorraine/Nassau. Louis, son of Charlemagne, is the link between several of the texts, in particular Reine Sebile (his mother); Lohier et Malart (conflict between his brother Lothar and him) and Hugues Capet (who obtains the crown from Louis). I invented the name, in the absence of received names for this cycle. The stories contained are marked by adventures, seduction, female characters, and other features of later chansons de geste. Several of them also feature a secondary link to Byzantine Matter."
+47895,102,Kings,[47703],[Geste du roi / des rois de France],[],[],[],Open,9698,
+48395,102,Grail,[47710],[],[],[],[],Open,9698,
+48509,102,Oriental,[47704],[],[],[],[],Open,9698,
+48533,102,Perceval,"[47710, 48395]",[],[],[],[],Action required,9697,Check if should not be linked to a Grail cycle
+48556,102,Gauvain,[47710],[],[],[],[],Open,9698,
+48661,102,Barlaam en Josaphat,[],[],[47483],[https://www.dbnl.org/tekst/gerr010vana01_01/gerr010vana01_01_0007.php],[],Action required,9697,Language for storyverse/stories?
+48663,102,Flandrijs,[],[],[47483],[https://www.dbnl.org/tekst/_fla001jter01_01/colofon.php],[],Action required,9697,Is this a proper storyverse? Or not necessary?
+48753,102,Rome,[47704],[],[],[],[],Open,9698,
+48756,102,Horn,[15],[],[],[],[],Open,9698,

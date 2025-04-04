@@ -1,0 +1,219 @@
+H-ID,type_id,is_inscribed_on H-ID,div_order,number_of_verses,part_of_text,volume_number,physical_description H-ID,number_of_lines,verses_per_line,verses_per_line TRM-ID,lines_are_incomplete,lines_are_incomplete TRM-ID,page_ranges,review_status,review_status TRM-ID,review_note
+45053,125,45047,1.0,,,,,,,,No,9498,[1ra-159rb],Open,9698,
+46313,125,46306,1.0,639.0,,,,639.0,,,No,9498,"[1r-1v, 2r-2v]",Action required,9697,Check
+46356,125,46334,1.0,,,,,,,,unknown,9535,[119v:15-126v],Open,9698,
+46373,125,46346,1.0,,,,,,,,Yes,9497,[15 fragments],Action required,9697,Check
+46376,125,46354,2.0,,,,,,,,Yes,9497,[9 fragments],Action required,9697,Check
+46404,125,46396,1.0,,,,,,,,unknown,9535,[19r-25r],Open,9698,
+46406,125,46398,1.0,1200.0,,,,1200.0,,,No,9498,"[1r-4v, 5r-6v]",Action required,9697,Add ref to Kienhorst
+46407,125,46338,1.0,332.0,,,,332.0,,,No,9498,"[1r-1v, 2r-2v]",Action required,9697,Check
+46411,125,46408,1.0,,,,,,,,No,9498,[71v-76v],Open,9698,
+47242,125,47235,1.0,355.0,,,47243.0,355.0,one verse per line,9831.0,No,9498,[1v-2r],Action required,9697,Check physdes and pages.
+47247,125,46345,1.0,,,,47248.0,,,,unknown,9535,[1 Doppelblatt],Action required,9697,needs locus information
+47269,125,47266,1.0,130.0,,,47270.0,1472.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check page ranges
+47273,125,47271,1.0,157.0,,,47274.0,1472.0,one verse per line,9831.0,Yes,9497,[1r-4v],Action required,9697,Check. Multiple parts necessary?
+47277,125,47275,1.0,141.0,,,47278.0,1472.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+47281,125,47279,1.0,618.0,,,47282.0,1472.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v, 3r-3v, 4r-4v]",Action required,9697,Check.
+47286,125,47284,1.0,190.0,,,47287.0,190.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Number of lines unsure.
+47290,125,47288,1.0,160.0,,,47291.0,160.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Number of lines check.
+47338,125,47335,1.0,720.0,,,47339.0,,,,Yes,9497,[3r-4v],Action required,9697,Check section lines.
+47344,125,47342,1.0,156.0,,,47345.0,156.0,continuous,9830.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47354,125,47352,1.0,200.0,,,47355.0,200.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Page cut in two parts: discuss.
+47376,125,47370,1.0,21844.0,Full text,,47377.0,,continuous,9830.0,No,9498,[1r-120v],Action required,9697,Check.
+47384,125,47382,1.0,672.0,,,47385.0,672.0,continuous,9830.0,unknown,9535,"[1r-2v, 3r-4v]",Action required,9697,Should this be two parts?
+47389,125,47387,1.0,144.0,Fragment of book 9,,47390.0,144.0,one verse per line,9831.0,Yes,9497,"[1r-1v,2r-2v]",Action required,9697,Check whether 1 or 2 parts.
+47393,125,47391,1.0,424.0,,,47394.0,424.0,one verse per line,9831.0,No,9498,"[1r-1v, 2r-2v]",Action required,9697,"Check parts, ref."
+47400,125,47395,1.0,212.0,,,47394.0,212.0,one verse per line,9831.0,unknown,9535,[1r-1v],Action required,9697,Check.
+47404,125,47401,1.0,638.0,,,47394.0,638.0,one verse per line,9831.0,unknown,9535,"[1r-2v, 3r-3v]",Action required,9697,Check.
+47407,125,47405,1.0,478.0,,,47408.0,478.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v]",Action required,9697,Check.
+47412,125,47409,1.0,739.0,,,47413.0,739.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-3v]",Action required,9697,Check.
+47417,125,47414,1.0,393.0,Part of book 9,,47418.0,393.0,one verse per line,9831.0,unknown,9535,[1r-2v],Action required,9697,Check.
+47421,125,47419,1.0,161.0,,,47422.0,161.0,,,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Ghost! Correct?
+47426,125,47423,1.0,74.0,,,47427.0,74.0,,,Yes,9497,[1r-1v],Action required,9697,Check: two parts make one folium.
+47430,125,47428,1.0,80.0,,,47431.0,80.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47434,125,47432,1.0,380.0,,,47435.0,380.0,,,Yes,9497,[1r-2v],Action required,9697,Check.
+47438,125,47436,1.0,557.0,Conclusion,,47439.0,557.0,one verse per line,9831.0,Yes,9497,[1r-10r],Action required,9697,Check material!
+47442,125,47440,1.0,68.0,,,47443.0,68.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47446,125,47444,1.0,2400.0,,,47447.0,2400.0,one verse per line,9831.0,Yes,9497,[1r-10v],Action required,9697,Check.
+47450,125,47448,1.0,200.0,,,47447.0,200.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47455,125,47453,1.0,80.0,,,47456.0,80.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47459,125,47457,1.0,132.0,,,47460.0,132.0,one verse per line,9831.0,Yes,9497,[1r],Action required,9697,Check.
+47464,125,47461,1.0,72.0,,,47465.0,72.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47468,125,47466,1.0,320.0,,,47469.0,320.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47479,125,47476,1.0,304.0,,,47480.0,304.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47501,125,47498,1.0,14300.0,,,47502.0,14300.0,one verse per line,9831.0,No,9498,[1r-108v],Action required,9697,Check.
+47506,125,47504,1.0,172.0,,,47507.0,172.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-3v]",Action required,9697,Check.
+47511,125,47509,1.0,585.0,,,47512.0,585.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47515,125,47513,1.0,910.0,Parts of book IX and X,,47516.0,910.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v, 5r-6v, 7r-8v]",Action required,9697,Check.
+47521,125,47518,1.0,158.0,,,47522.0,158.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47533,125,47530,1.0,120.0,,,47534.0,120.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47537,125,47535,1.0,89.0,,,47538.0,89.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47542,125,47540,1.0,314.0,Eerste zang,,47543.0,314.0,one verse per line,9831.0,No,9498,[1r-1v],Action required,9697,Check.
+47546,125,47544,1.0,136.0,,,47547.0,136.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47553,125,47550,1.0,3973.0,Full text,,47554.0,3973.0,one verse per line,9831.0,No,9498,[33r-58v],Action required,9697,Check order.
+47557,125,47555,1.0,441.0,,,47558.0,441.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v, 5r-6v, 7r-8v]",Action required,9697,Check.
+47570,125,47563,1.0,537.0,,,47571.0,537.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v]",Action required,9697,Check.
+47572,125,47567,2.0,120.0,,,47571.0,120.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47578,125,47573,1.0,183.0,,,47579.0,183.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47580,125,47575,2.0,176.0,,,47579.0,176.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47583,125,47581,1.0,563.0,,,47584.0,563.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v, 3r-3v, 4r-4v]",Action required,9697,Check.
+47588,125,47585,1.0,251.0,,,47589.0,251.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47590,125,47586,2.0,269.0,,,47589.0,269.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47593,125,47591,1.0,164.0,,,47594.0,164.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47616,125,47614,1.0,60.0,,,47617.0,60.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47620,125,47618,1.0,320.0,,,47621.0,320.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47625,125,47622,1.0,160.0,,,47626.0,160.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47629,125,47627,1.0,331.0,,,47630.0,331.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47633,125,47631,1.0,245.0,,,47634.0,245.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47638,125,47636,1.0,40881.0,Full text,,47639.0,40881.0,one verse per line,9831.0,No,9498,"[1r-1v, 2r-3v, 4r-287v, 288r-288v]",Action required,9697,Check.
+47650,125,47647,1.0,930.0,'Dits hoe her Hector ute der stat voer die van Troyen te hulpen',,47651.0,930.0,one verse per line,9831.0,No,9498,[130v-136r],Action required,9697,Check order.
+47652,125,47647,2.0,186.0,'Dits her Hectors doot',,47651.0,186.0,one verse per line,9831.0,No,9498,[136r-136v],Action required,9697,Check order.
+47656,125,47653,1.0,739.0,,,47657.0,739.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v]",Action required,9697,Check decoration.
+47663,125,47658,3.0,357.0,,,47664.0,357.0,one verse per line,9831.0,Yes,9497,[5r-5v],Action required,9697,Check.
+47665,125,47658,1.0,1473.0,,,47664.0,1473.0,one verse per line,9831.0,Yes,9497,[1r-4v],Action required,9697,Check.
+47666,125,47660,2.0,60.0,,,47664.0,60.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check page ranges for whole witness.
+47667,125,47661,4.0,1444.0,,,47664.0,1444.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v]",Action required,9697,Check
+47671,125,47668,2.0,668.0,,,47672.0,668.0,one verse per line,9831.0,unknown,9535,"[1r-2v, 3r-4v]",Action required,9697,Check.
+47673,125,47669,1.0,48.0,,,47672.0,48.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47678,125,47675,1.0,140.0,,,47679.0,140.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47682,125,47680,1.0,208.0,,,47683.0,208.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47687,125,47685,1.0,114.0,,,47688.0,114.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47694,125,47689,2.0,144.0,,,47695.0,144.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47696,125,47691,3.0,86.0,,,47695.0,86.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47698,125,47692,1.0,229.0,,,47695.0,229.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+47714,125,47712,1.0,614.0,,,47715.0,614.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47718,125,47716,1.0,630.0,,,47719.0,630.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47722,125,47720,1.0,16.0,,,47723.0,16.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47726,125,47724,1.0,12.0,,,47727.0,12.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47731,125,47729,1.0,44.0,,,47732.0,44.0,one verse per line,9831.0,unknown,9535,"[1r-1v, 2r-2v]",Action required,9697,Check article Laurent & Remco
+47735,125,47733,1.0,,,,47736.0,,,,unknown,9535,[NA],Action required,9697,Find source.
+47739,125,47737,1.0,,,,47740.0,,,,unknown,9535,[NA],Action required,9697,Find source.
+47743,125,47741,1.0,,,,47744.0,,,,unknown,9535,[NA],Action required,9697,Find source.
+47748,125,47746,1.0,352.0,,,47749.0,352.0,one verse per line,9831.0,No,9498,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47753,125,47750,1.0,395.0,,,47754.0,395.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47757,125,47647,1.0,1127.0,Full text,,47651.0,1127.0,one verse per line,9831.0,No,9498,[157v-164r],Action required,9697,Check.
+47763,125,47760,1.0,501.0,,,47764.0,501.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-3v]",Action required,9697,Check.
+47773,125,47370,1.0,11198.0,Full text,,47377.0,11198.0,one verse per line,9831.0,No,9498,[121r-182v],Action required,9697,Check.
+47778,125,47774,1.0,388.0,,,47779.0,388.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+47786,125,47782,1.0,3667.0,,,47787.0,3667.0,one verse per line,9831.0,No,9498,[188r-190r],Action required,9697,Check.
+47793,125,47790,1.0,429.0,,,47794.0,429.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47798,125,47796,1.0,58.0,,,47799.0,58.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Add Kienhorst dbnl as source (https://www.dbnl.org/tekst/_tij003199801_01/_tij003199801_01_0009.php)
+47898,125,47782,1.0,13055.0,Full text,,47787.0,13055.0,one verse per line,9831.0,No,9498,[201r-238r],Action required,9697,Check.
+47901,125,47899,1.0,160.0,,,47902.0,160.0,one verse per line,9831.0,unknown,9535,[1r-1v],Action required,9697,Add information article Janssens en Croenen 1994
+47907,125,47904,1.0,354.0,,,47908.0,354.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47913,125,47910,1.0,400.0,,,47914.0,400.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+47927,125,47925,1.0,118.0,,,47928.0,118.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Add litera notula
+47934,125,47930,2.0,1005.0,,,47935.0,1005.0,one verse per line,9831.0,Yes,9497,[1r-6v],Action required,9697,Check.
+47936,125,47931,1.0,407.0,,,47935.0,407.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+47939,125,47937,1.0,178.0,,,47940.0,178.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check.
+47944,125,47942,1.0,1890.0,,,47945.0,1890.0,one verse per line,9831.0,No,9498,[68v-77v],Action required,9697,Check
+47948,125,47946,1.0,177.0,,,47949.0,177.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47952,125,47950,1.0,150.0,,,47953.0,150.0,one verse per line,9831.0,unknown,9535,[1r-1v],Action required,9697,Check
+47965,125,47962,1.0,816.0,,,47966.0,816.0,one verse per line,9831.0,Yes,9497,[1r-4v],Action required,9697,Add decoration in other letters?
+47967,125,47963,2.0,2469.0,,,47966.0,2469.0,one verse per line,9831.0,Yes,9497,"[83r-86v, 89r-96v]",Action required,9697,Check
+47970,125,47968,1.0,560.0,,,47971.0,560.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v]",Action required,9697,Check
+47974,125,47972,1.0,96.0,,,47975.0,96.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47979,125,47550,1.0,5604.0,Full text,,47554.0,5604.0,one verse per line,9831.0,No,9498,[1r-32v],Action required,9697,Check.
+47983,125,47981,1.0,372.0,,,47984.0,372.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+47988,125,47986,1.0,1794.0,First third,,47989.0,1794.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v, 5r-6v, 7r-8v, 9r-10v]",Action required,9697,Check.
+47992,125,47990,1.0,168.0,,,47993.0,168.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+47997,125,47995,1.0,171.0,,,47998.0,171.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check.
+48004,125,48000,1.0,1030.0,,,48005.0,1030.0,one verse per line,9831.0,unknown,9535,"[1r-2v, 3r-4v, 5r-6v, 7r-8v, 9r-10v]",Action required,9697,Check
+48006,125,48001,2.0,110.0,,,48005.0,110.0,one verse per line,9831.0,unknown,9535,[1r-2v],Action required,9697,Check
+48007,125,48002,3.0,50.0,,,48005.0,50.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+48011,125,48009,1.0,348.0,,,48012.0,348.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Does this count as illustration?
+48016,125,48014,1.0,388.0,,,48017.0,388.0,,,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Verses per line?
+48029,125,48026,1.0,192.0,,,48030.0,192.0,one verse per line,9831.0,No,9498,[1r-4v],Action required,9697,Check.
+48038,125,48032,1.0,124.0,,,48039.0,124.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v, 3r-3v, 4r-4v]",Action required,9697,"Four parts of a page, now looks like four whole pages"
+48040,125,48033,2.0,30.0,,,48039.0,30.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check parts/divisions
+48041,125,48035,3.0,30.0,,,48039.0,30.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,see other
+48042,125,48036,4.0,48.0,,,48039.0,48.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48046,125,48044,1.0,10092.0,Full text,,48047.0,10092.0,one verse per line,9831.0,No,9498,[1r-62v],Action required,9697,Check
+48052,125,48050,1.0,800.0,,,48053.0,800.0,one verse per line,9831.0,Yes,9497,[1r-4v],Action required,9697,
+48056,125,48054,1.0,346.0,,,48057.0,346.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check 'initial'
+48060,125,48058,1.0,40.0,,,48061.0,40.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48062,125,48058,2.0,115.0,,,48061.0,115.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Order?
+48065,125,48063,1.0,225.0,,,48066.0,225.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check.
+48070,125,48068,1.0,500.0,Prologue,,48071.0,500.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v]",Action required,9697,Check
+48075,125,48073,1.0,220.0,,,48076.0,220.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check order
+48080,125,48078,1.0,310.0,,,48081.0,310.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48084,125,47782,1.0,856.0,Full text,,47787.0,856.0,one verse per line,9831.0,No,9498,[188r-190r],Action required,9697,Check
+48087,125,47782,1.0,32500.0,Last third,,47787.0,32500.0,one verse per line,9831.0,No,9498,[1r-99v],Action required,9697,Check.
+48090,125,48088,1.0,396.0,,,48092.0,396.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48095,125,48093,1.0,396.0,,,48096.0,396.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48103,125,48098,1.0,43.0,,,48104.0,43.0,one verse per line,9831.0,Yes,9497,[21r-21v],Action required,9697,Page range/order division
+48105,125,48099,1.0,184.0,,,48104.0,184.0,one verse per line,9831.0,Yes,9497,"[8r-8v, 38r-38v]",Action required,9697,Check
+48106,125,48100,1.0,208.0,,,48104.0,208.0,one verse per line,9831.0,No,9498,[6r-6v],Action required,9697,Check
+48107,125,48101,1.0,5638.0,,,48104.0,5638.0,one verse per line,9831.0,Yes,9497,"[1r-5v, 7r-7v, 9r-20v, 22r-37v]",Action required,9697,Check
+48112,125,48110,1.0,102.0,,,48113.0,102.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+48118,125,45381,1.0,793.0,,,48119.0,793.0,one verse per line,9831.0,Yes,9497,[1r-5v],Action required,9697,Check
+48120,125,48116,2.0,26.0,,,48119.0,26.0,one verse per line,9831.0,unknown,9535,[1r-1v],Action required,9697,Check
+48124,125,48121,1.0,184.0,Book 1,,48125.0,184.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48139,125,48127,4.0,9800.0,,,48140.0,,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,
+48141,125,48128,1.0,,,,48140.0,,one verse per line,9831.0,unknown,9535,[1r-19v],Action required,9697,
+48142,125,48129,7.0,,,,48140.0,,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,
+48143,125,48130,8.0,,,,48140.0,,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,
+48144,125,48131,5.0,,,,48140.0,,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,
+48145,125,48132,6.0,,,,48140.0,,one verse per line,9831.0,No,9498,[1r-1v],Action required,9697,
+48146,125,48135,2.0,,,,48140.0,,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,
+48147,125,48136,3.0,,,,48140.0,,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,
+48148,125,48137,5.0,,,,48140.0,,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check loci
+48158,125,48154,1.0,46.0,,,48159.0,46.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48160,125,48156,2.0,200.0,,,48159.0,200.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+48165,125,48044,1.0,25820.0,Full text,,48047.0,25820.0,one verse per line,9831.0,No,9498,[62v-229r],Action required,9697,Check
+48168,125,48166,1.0,339.0,,,48170.0,339.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48173,125,48171,1.0,360.0,,,48174.0,360.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48177,125,48175,1.0,1010.0,,,48178.0,1010.0,one verse per line,9831.0,unknown,9535,[1r-4v],Action required,9697,Check
+48181,125,47782,1.0,4716.0,Full text,,47787.0,4716.0,one verse per line,9831.0,No,9498,[116r-128v],Action required,9697,Check
+48184,125,48182,1.0,243.0,,,48185.0,243.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48189,125,48187,1.0,143.0,,,48190.0,143.0,continuous,9830.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+48194,125,48191,1.0,192.0,,,48195.0,192.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Should other 'pretty' letters be included?
+48196,125,48192,2.0,85.0,,,48195.0,85.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48202,125,48198,2.0,148.0,,,48203.0,148.0,one verse per line,9831.0,No,9498,"[1r-1v, 2r-2v]",Action required,9697,Check
+48204,125,48199,1.0,148.0,,,48203.0,148.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48205,125,48200,3.0,379.0,,,48203.0,379.0,one verse per line,9831.0,No,9498,"[1r-1v, 2r-2v, 3r-3v]",Action required,9697,Check
+48211,125,48206,3.0,384.0,,,48212.0,384.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48213,125,48207,2.0,365.0,,,48212.0,365.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48214,125,48209,1.0,4433.0,,,48212.0,4433.0,one verse per line,9831.0,Yes,9497,[1r-26v],Action required,9697,Check
+48219,125,48215,3.0,2477.0,,,48220.0,2477.0,one verse per line,9831.0,Yes,9497,"[1r-12v, 1r-2v]",Action required,9697,Check
+48221,125,48216,1.0,710.0,,,48220.0,710.0,one verse per line,9831.0,Yes,9497,[1r-4v],Action required,9697,Check
+48222,125,48217,2.0,318.0,,,48220.0,318.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+48225,125,48223,1.0,320.0,,,48226.0,320.0,one verse per line,9831.0,No,9498,[1r-2v],Action required,9697,check
+48229,125,48227,1.0,144.0,,,48230.0,144.0,one verse per line,9831.0,unknown,9535,"[1r-1v, 2r-2v, 3r-3v]",Action required,9697,Check
+48234,125,48231,2.0,135.0,,,48235.0,135.0,one verse per line,9831.0,unknown,9535,"[1r-1v, 2r-2v]",Action required,9697,Check
+48236,125,48232,1.0,166.0,,,48235.0,166.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v, 5r-6v]",Action required,9697,Check
+48239,125,47782,1.0,5593.0,Full text,,47787.0,5593.0,one verse per line,9831.0,No,9498,[100r-115v],Action required,9697,Check
+48242,125,48240,1.0,736.0,,,48244.0,736.0,one verse per line,9831.0,unknown,9535,"[1r-2v, 3r-4v]",Action required,9697,Check
+48247,125,48245,1.0,192.0,,,48248.0,192.0,one verse per line,9831.0,unknown,9535,[1r-1v],Action required,9697,Check
+48252,125,48249,1.0,158.0,,,48253.0,158.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48256,125,48254,1.0,68.0,,,48257.0,68.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48260,125,47782,1.0,11155.0,Full text,,47787.0,11155.0,one verse per line,9831.0,No,9498,[129r-158v],Action required,9697,Check
+48266,125,48261,1.0,119.0,,,48267.0,119.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48270,125,47782,1.0,4021.0,,,47787.0,4021.0,one verse per line,9831.0,No,9498,[167r-177v],Action required,9697,Check
+48274,125,48271,1.0,320.0,,,48275.0,320.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48280,125,48278,1.0,160.0,,,48281.0,160.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48285,125,48283,1.0,11979.0,,,48286.0,11979.0,one verse per line,9831.0,unknown,9535,[71r-122v],Action required,9697,Check
+48291,125,48289,1.0,130.0,,,48292.0,130.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48295,125,47782,1.0,3853.0,,,47787.0,3853.0,one verse per line,9831.0,No,9498,[190r-200v],Action required,9697,Check
+48299,125,47636,1.0,2276.0,,,47639.0,,one verse per line,9831.0,unknown,9535,[NA],Action required,9697,Check
+48301,125,47647,1.0,2241.0,,,47651.0,2241.0,one verse per line,9831.0,unknown,9535,[118r-130v],Action required,9697,Check
+48304,125,47782,1.0,3414.0,,,47787.0,3414.0,one verse per line,9831.0,No,9498,[158v-166v],Action required,9697,Check
+48307,125,48305,1.0,107.0,,,48308.0,107.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48313,125,48309,2.0,234.0,,,48314.0,234.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48315,125,48310,1.0,681.0,,,48314.0,681.0,one verse per line,9831.0,unknown,9535,[1r-2v],Action required,9697,Check
+48319,125,48317,1.0,29.0,End of text,,48320.0,29.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48325,125,48322,1.0,95.0,,,48326.0,95.0,one verse per line,9831.0,Yes,9497,[1r-1v],Action required,9697,Check
+48330,125,48328,1.0,384.0,,,48331.0,384.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+48335,125,48333,1.0,199.0,,,48336.0,199.0,one verse per line,9831.0,Yes,9497,"[1r-2v, 3r-4v]",Action required,9697,Check
+48340,125,48338,1.0,89.0,,,48341.0,89.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,"Lombarden heel mooi, hoe opnemen?"
+48345,125,48343,1.0,160.0,,,48346.0,160.0,one verse per line,9831.0,unknown,9535,[1r-2v],Action required,9697,Check
+48351,125,48348,1.0,78.0,,,48352.0,78.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,Check
+48357,125,48354,1.0,80.0,,,48358.0,80.0,one verse per line,9831.0,Yes,9497,[1r-2v],Action required,9697,Check
+48362,125,48360,1.0,80.0,,,48363.0,80.0,,,unknown,9535,[NA],Action required,9697,Add info article Schoenaers (2021)
+48368,125,48365,1.0,,,,48369.0,382.0,,,unknown,9535,"[1r-1v, 2r-2v]",Action required,9697,Check
+48370,125,48371,1.0,,,,48369.0,82.0,,,unknown,9535,[1r-1v],Action required,9697,Check
+48374,125,48372,1.0,20.0,Ending,,48375.0,20.0,one verse per line,9831.0,unknown,9535,[1r-2v],Action required,9697,Add information Langeslag 2015
+48378,125,48376,1.0,236.0,,,48379.0,236.0,one verse per line,9831.0,unknown,9535,[1r-1v],Action required,9697,Check
+48659,125,48658,3.0,264.0,"Duijvestijn (1989), p. 134-140",,47589.0,264.0,one verse per line,9831.0,Yes,9497,"[1r-1v, 2r-2v]",Action required,9697,
+48786,125,48781,1.0,1139.0,,,48788.0,1139.0,one verse per line,9831.0,No,9498,[209r-215v],Action required,9697,Add lines edition
+48795,125,48792,1.0,566.0,,,48796.0,566.0,one verse per line,9831.0,unknown,9535,[166r-177v],Action required,9697,Check page ranges

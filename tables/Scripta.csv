@@ -1,0 +1,32 @@
+H-ID,type_id,preferred_name,description,language_COLUMN,language_COLUMN TRM-ID,region H-ID,region_note,described_by_source H-ID,described_at_URL,reference_notes,review_status,review_status TRM-ID,review_note
+46249,118,Picardy,needs description,frm (Middle French),9557,,,[],[],[],Action required,9697,Needs description & verification of language.
+46305,118,Vlaams,Dialect of Flanders.,dum (Middle Dutch),9728,,,[],[],[],Open,9698,
+46312,118,Brabants,Dialect of Brabant.,dum (Middle Dutch),9728,,,[],[],[],Action required,9697,Add Brabantine.
+46335,118,Nederfrankisch,Volkstalige dialecten gesproken tussen Maas en Nederrijn (Nederfrankisch),dum (Middle Dutch),9728,,,[],[],[],Action required,9697,Add reference
+47240,118,Limburgs,Dialect from the Middle Dutch region Limburg.,dum (Middle Dutch),9728,,,[],[],[],Action required,9697,Add region? Add source?
+47357,118,Hollands,Dialect from the north-western Dutch region.,dum (Middle Dutch),9728,,,[],[],[],Action required,9697,Check description and name.
+47503,118,Oost-Nederlands,"Dialect from the eastern part of the current Netherlands, surrounding the Rijn-area.",dum (Middle Dutch),9728,,,[],[],[],Action required,9697,Description/source needed. Add region.
+47610,118,pic. sept.: flandr.,Picard septentrional: Flandre,fro (Old French),9470,,,[],[],[],Open,9698,
+47640,118,pic.,picard (general),fro (Old French),9470,,,[],[],[],Open,9698,
+48048,118,Westfalen,German-Dutch dialect located at the middle west side of current Germany.,dum (Middle Dutch),9728,,,[],[https://nl.wikipedia.org/wiki/Westfalen_(streek)],[],Action required,9697,Dutch or German?
+48382,118,Ouest,Ouest (broad category),fro (Old French),9470,,,[],[],[],Open,9698,
+48393,118,agn.,anglo-norman,fro_ENG (Anglo-Norman),9472,,,[],[],[],Open,9698,
+48656,118,champ.,champenois,fro (Old French),9470,,,[],[],[],Open,9698,
+48681,118,champ. sept.,champenois septentrional,fro (Old French),9470,,,[],[],[],Open,9698,
+48682,118,bourg.,bourguignon,fro (Old French),9470,,,[],[],[],Open,9698,
+48683,118,champ. mérid.,champenois méridional,fro (Old French),9470,,,[],[],[],Open,9698,
+48684,118,frc.,"'francien', français central, Île-de-France",fro (Old French),9470,,,[],[],[],Open,9698,
+48685,118,lorr.,lorrain,fro (Old French),9470,,,[],[],[],Open,9698,
+48686,118,norm.,normand,fro (Old French),9470,,,[],[],[],Open,9698,
+48687,118,orl.,orléanais,fro (Old French),9470,,,[],[],[],Open,9698,
+48689,118,wall.,wallon,fro (Old French),9470,,,[],[],[],Open,9698,
+48698,118,Nord-Est,"Wallonie, Lorraine (septentrionale)",fro (Old French),9470,,,[],[],[],Open,9698,
+48702,118,Est,Est,fro (Old French),9470,,,[],[],[],Open,9698,
+48704,118,wall.-lorr.,"wallonie ou lorraine (septentrionale), luxembourg",fro (Old French),9470,,,[],[],[],Open,9698,
+48713,118,ven.,Veneto,fro_ITA (Franco-Italian),9473,,,[],[],[],Open,9698,
+48738,118,lim.,limousin,pro (Occitan),9471,,,[],[],[],Open,9698,
+48762,118,Ouest de l'Angl.,Ouest de l'Angleterre,fro_ENG (Anglo-Norman),9472,,,[],[],[],Open,9698,
+48774,118,wall. occid.,wallonie occidentale,fro (Old French),9470,,,[],[],[],Open,9698,
+48775,118,prov.,provençal,pro (Occitan),9471,,,[],[],[],Open,9698,
+48780,118,West Midlands,"Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.",enm (Middle English),9729,,,[],[https://en.wikipedia.org/wiki/West_Midlands_(region)],[],Action required,9697,Source
+48797,118,East Midlands,Dialect spoken in the middle Eastern part of England (East Midlands).,enm (Middle English),9729,,,[],[https://nl.wikipedia.org/wiki/East_Midlands],[],Action required,9697,Add better source

@@ -1,0 +1,13 @@
+H-ID,type_id,preferred_name,parent_genre H-ID,alternative_names,description,archetype,described_by_source H-ID,described_at_URL,reference_notes,review_status,review_status TRM-ID,review_note
+44128,117,roman,,"[chivalric romance, chivalric novel]","""Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles."" (DBpedia)",[],[],"[http://fr.dbpedia.org/page/Roman_de_chevalerie, https://data.bnf.fr/16603707/roman_de_chevalerie/]",[],Action required,9697,"Are those alternative titles correct? Is ""roman"" the same as what's described in the linked semantic reference urls?"
+44130,117,roman lignager,44128.0,[],Family history,[],[],[],[],Open,9698,
+44167,117,chanson de geste,,[],Long epic poem from the Middle Ages.,[],[],"[https://www.wikidata.org/wiki/Q651019, https://catalogue.bnf.fr/ark:/12148/cb11947470n]",[],Open,9698,
+46304,117,Karelepiek,,[],Story about Charlemagne and his family.,[],[],[],[],Action required,9697,Add references. Besamusca repertoria Karelepiek.
+46366,117,riddarasögur,,[chivalric sagas],"The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.",[],[],[],[],Open,9698,
+46367,117,riddarasögur indigenous,46366.0,[],Icelandic indigenous creations in a style of riddarasögur,[],[],[],[],Open,9698,
+46370,117,riddarasögur translated,46366.0,[],"Norse translations of French chansons de geste and Latin romances and histories,",[],[],[],[],Open,9698,
+46894,117,Artusroman,44128.0,[],Middle High German form of romance  or epic based on the Matière de Bretagne,[],[],[],[],Open,9698,
+47474,117,Other,,[],Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.,[],[],[],[],Action required,9697,Check description. No source?
+47609,117,chronique,,[],"'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans",[],[],[],[],Open,9698,
+47612,117,mise en prose,,[],mise en prose de chansons de geste ou romans en vers,[],[],[],[],Open,9698,
+47768,117,Arthurroman,,[],"'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'",[],[],[https://www.dbnl.org/tekst/coil001lexi01_01/lvdj00040.php],[],Action required,9697,Add literary source/change description
